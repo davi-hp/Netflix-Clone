@@ -72,8 +72,9 @@ header nav a:hover{
 .botao{
     
     
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: rgba(151, 148, 148, 0.3);
     border: none;
+    border-radius: 4px;
     color: white;
 
     padding: 15px;
@@ -91,11 +92,23 @@ header nav a:hover{
 
     -webkit-transform: scale(1.1);
         -ms-transform: scale(1.1);
-        transform: scale(1.1);
-
+        transform: scale(1.1); 
+}
+.botao:hover,
+.botao:focus {
+  box-shadow: 0 0.5em 0.5em -0.4em var(--hover);
+  transform: translateY(-0.25em);
 }
 
 .botao i{
     margin-right: 5px;
+}
+
+.container{
+    margin-left: 30px;
+}
+
+.filme-principal .container{
+    width: 70%;
 }
  
