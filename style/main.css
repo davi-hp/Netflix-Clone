@@ -94,11 +94,6 @@ header nav a:hover{
         -ms-transform: scale(1.1);
         transform: scale(1.1); 
 }
-.botao:hover,
-.botao:focus {
-  box-shadow: 0 0.5em 0.5em -0.4em var(--hover);
-  transform: translateY(-0.25em);
-}
 
 .botao i{
     margin-right: 5px;
