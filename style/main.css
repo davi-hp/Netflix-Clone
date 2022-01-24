@@ -110,9 +110,21 @@ header nav a:hover{
     height: 100%;
     width: 100%;
     display: block;
+    cursor: pointer;
+    transition: .4s ease all
 
 }
 
 .carrosel{
-    margin-top: 5px;
+    margin-top: 3px;
+}
+
+.item:hover{
+    background-color: white;
+    color: black;
+
+    -webkit-transform: scale(1.1);
+        -ms-transform: scale(1.1);
+        transform: scale(1.1); 
+
 }
