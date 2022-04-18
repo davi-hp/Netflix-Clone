@@ -1,11 +1,11 @@
 # Netflix Clone
 
 ### Este é um dos meu primeiros projetos front-end, nele foi criado uma interface clone da Netflix, foram usados HTML/CSS e JS.
+<div style="display: inline_block">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=50/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width=50/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=50/>
-
-
+</div>
 
 
 #### Sinta-se a vontade para entrar em contato comigo via LinkedIn
