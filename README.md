@@ -13,4 +13,6 @@
 
 ### Abaixo um GIF demonstrando a funcionalidade da interface e sua responsividade.
 
-![Alt Text](https://github.com/davi-tr/Netflix-Clone/blob/main/VID/preview.gif?raw=true)
+<p align="center">
+<img src="https://github.com/davi-tr/Netflix-Clone/blob/main/VID/preview.gif?raw=true" />
+</p>
